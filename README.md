@@ -12,6 +12,10 @@ A macOS menu bar app wrapping `/usr/bin/caffeinate` to keep your Mac awake on de
 - Launch at login (via `SMAppService`)
 - Liquid Glass UI
 
+## Requirements
+
+macOS 27 Golden Gate or later.
+
 ## Install
 
 ```bash
